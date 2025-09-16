@@ -59,9 +59,3 @@ Feedback and pull requests for improvements are welcome, especially regarding ED
 ## License
 
 Distributed under the MIT License.
-
-  
-
-
-Clone the repo and run the notebook in Jupyter or Kaggle:
-
